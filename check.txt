@@ -1,1 +1,4 @@
+
 Just to check the commits
+
+just to check the gitsigns toggle_line_blame using <leader>gt syntax :)
