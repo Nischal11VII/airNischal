@@ -71,4 +71,4 @@ This is a college project for booking airplane flights. The project provides an 
 
 ---
 
-> **This project was created as a part of a college assignment and demonstrates practical usage of C programming, ncurses library, file handling, and user authentication in a real-world scenario.**
+> **This project was created as a part of a college assignment and demonstrates practical usage of Cpp programming, ncurses library, file handling, and user authentication in a real-world scenario.**
